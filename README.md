@@ -1,4 +1,4 @@
 # apnacollege-demo1
 This is my first Git Repository
 <br>
-Author - Kajal Kumari
+Author - Kajal (GEC SAMASTIPUR)
